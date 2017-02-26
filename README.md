@@ -1,10 +1,7 @@
-## Welcome
+### Welcome
 
 Your Intelligent Robot Assitant
 
-### 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/pKkG6yIa0Fc/maxresdefault.jpg)](https://www.youtube.com/watch?v=pKkG6yIa0Fc)
@@ -15,12 +12,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 ### How to Make FR3D
-
+1. Buy a plush toy with a similar appearance to that of Baymax from Disney's Big Hero 6®
+2. Contact fr3dtherobot@gmail.com for more steps.
 
 
 ### Social Media Links
 
 Instagram: fr3d.therobot
+
 Email: fr3dtherobot@gmail.com
 
-# Contact Us for more information!
+# Contact us for more information!
