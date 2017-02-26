@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+![http://vignette2.wikia.nocookie.net/disney/images/0/05/Baymax_Render.png/revision/latest?cb=20140719160257](src)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
