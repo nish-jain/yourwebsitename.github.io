@@ -7,7 +7,7 @@ Your Intelligent Robot Assitant
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/pKkG6yIa0Fc/maxresdefault.jpg)(https://www.youtube.com/watch?v=pKkG6yIa0Fc)]
+![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/pKkG6yIa0Fc/maxresdefault.jpg)(https://www.youtube.com/watch?v=pKkG6yIa0Fc)
 
 
 
@@ -20,5 +20,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Social Media Links
 
-Instagram.
+Instagram: fr3d.therobot
+Email: fr3dtherobot@gmail.com
 
+# Contact Us for more information!
